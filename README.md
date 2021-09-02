@@ -1,2 +1,2 @@
 # Excel avancado
- Conteúdo de Excel, do basíco ao avançado.
+ Conteúdo útil de Excel, do basíco ao avançado :) 
